@@ -1,2 +1,2 @@
-# digital-clock-
+# digital-clock and analog clock
 using python tkinter and time library 
